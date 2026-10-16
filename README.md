@@ -1,4 +1,4 @@
-# aws-docker-labs[README (1).md](https://github.com/user-attachments/files/33555331/README.1.md)
+# aws-docker-labs
 # AWS NACL vs Security Group + Docker Hands-on Labs
 
 Hands-on labs I completed while learning cloud and container fundamentals on AWS.
